@@ -1,0 +1,19 @@
+C:\Users\Arhin\source\repos\Nested Json\Nested Json\bin\Debug\netcoreapp3.1\Nested Json.exe
+C:\Users\Arhin\source\repos\Nested Json\Nested Json\bin\Debug\netcoreapp3.1\Nested Json.deps.json
+C:\Users\Arhin\source\repos\Nested Json\Nested Json\bin\Debug\netcoreapp3.1\Nested Json.runtimeconfig.json
+C:\Users\Arhin\source\repos\Nested Json\Nested Json\bin\Debug\netcoreapp3.1\Nested Json.runtimeconfig.dev.json
+C:\Users\Arhin\source\repos\Nested Json\Nested Json\bin\Debug\netcoreapp3.1\Nested Json.dll
+C:\Users\Arhin\source\repos\Nested Json\Nested Json\bin\Debug\netcoreapp3.1\Nested Json.pdb
+C:\Users\Arhin\source\repos\Nested Json\Nested Json\obj\Debug\netcoreapp3.1\Nested Json.csprojAssemblyReference.cache
+C:\Users\Arhin\source\repos\Nested Json\Nested Json\obj\Debug\netcoreapp3.1\Nested Json.AssemblyInfoInputs.cache
+C:\Users\Arhin\source\repos\Nested Json\Nested Json\obj\Debug\netcoreapp3.1\Nested Json.AssemblyInfo.cs
+C:\Users\Arhin\source\repos\Nested Json\Nested Json\obj\Debug\netcoreapp3.1\Nested Json.csproj.CoreCompileInputs.cache
+C:\Users\Arhin\source\repos\Nested Json\Nested Json\obj\Debug\netcoreapp3.1\Nested Json.dll
+C:\Users\Arhin\source\repos\Nested Json\Nested Json\obj\Debug\netcoreapp3.1\Nested Json.pdb
+C:\Users\Arhin\source\repos\Nested Json\Nested Json\obj\Debug\netcoreapp3.1\Nested Json.genruntimeconfig.cache
+C:\Users\Arhin\source\repos\Nested Json\Nested Json\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arhin\source\repos\Nested Json\Nested Json\obj\Debug\netcoreapp3.1\Nested Json.csproj.CopyComplete
+C:\Users\Arhin\source\repos\Nested Json\Nested Json\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Arhin\source\repos\Nested Json\Nested Json\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Arhin\source\repos\Nested Json\Nested Json\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Arhin\source\repos\Nested Json\Nested Json\bin\Debug\netcoreapp3.1\Nancy.dll
