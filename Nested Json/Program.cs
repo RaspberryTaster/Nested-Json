@@ -9,7 +9,7 @@ namespace Nested_Json
 {
 	class Program
 	{
-		private static string _path = "C:/Users/Arhin/source/repos/Nested Json/Nested Json/TestJson.json";
+		private static string _path = "C:/Users/Anon/source/repos/Nested Json/Nested Json/TestJson.json";
 		static void Main(string[] args)
 		{
 			//https://stackoverflow.com/questions/6935343/deserialize-json-arrayor-list-in-c-sharp
